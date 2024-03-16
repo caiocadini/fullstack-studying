@@ -1,2 +1,2 @@
 # fullstack-studying
-Repository utilized to expand knowledge in fullstack web development
+Repository used to expand knowledge in fullstack web development
